@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VirtualConstrutor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab115f986eaf1a2792d02c995f6cad9714a1748a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c72e82f91cf42c659335d60d11eb73b9f4bf28a5")]
 [assembly: System.Reflection.AssemblyProductAttribute("VirtualConstrutor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VirtualConstrutor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
