@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualConstrutor", "VirtualConstrutor\VirtualConstrutor.csproj", "{696A03D1-BDCD-4386-BED2-5271ED5C5C7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualConstructorTest", "VirtualConstructorTest\VirtualConstructorTest.csproj", "{69C505B0-8432-46EB-833A-3EA98EA20C58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimingTest", "TimingTest\TimingTest.csproj", "{F80DC8D8-717D-4EBE-B683-F3585069D33F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{696A03D1-BDCD-4386-BED2-5271ED5C5C7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{696A03D1-BDCD-4386-BED2-5271ED5C5C7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{696A03D1-BDCD-4386-BED2-5271ED5C5C7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{696A03D1-BDCD-4386-BED2-5271ED5C5C7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69C505B0-8432-46EB-833A-3EA98EA20C58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69C505B0-8432-46EB-833A-3EA98EA20C58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69C505B0-8432-46EB-833A-3EA98EA20C58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69C505B0-8432-46EB-833A-3EA98EA20C58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F80DC8D8-717D-4EBE-B683-F3585069D33F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F80DC8D8-717D-4EBE-B683-F3585069D33F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F80DC8D8-717D-4EBE-B683-F3585069D33F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F80DC8D8-717D-4EBE-B683-F3585069D33F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

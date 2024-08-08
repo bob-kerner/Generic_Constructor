@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GenericConstructorTest/1.0.0": {
+        "dependencies": {
+          "VirtualConstrutor": "1.0.0"
+        },
+        "runtime": {
+          "GenericConstructorTest.dll": {}
+        }
+      },
+      "VirtualConstrutor/1.0.0": {
+        "runtime": {
+          "VirtualConstrutor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GenericConstructorTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VirtualConstrutor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

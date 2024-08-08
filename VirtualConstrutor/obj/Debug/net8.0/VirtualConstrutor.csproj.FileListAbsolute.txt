@@ -1,0 +1,12 @@
+/home/bobkerner/RiderProjects/virtual_constructor/VirtualConstrutor/obj/Debug/net8.0/VirtualConstrutor.GeneratedMSBuildEditorConfig.editorconfig
+/home/bobkerner/RiderProjects/virtual_constructor/VirtualConstrutor/obj/Debug/net8.0/VirtualConstrutor.AssemblyInfoInputs.cache
+/home/bobkerner/RiderProjects/virtual_constructor/VirtualConstrutor/obj/Debug/net8.0/VirtualConstrutor.AssemblyInfo.cs
+/home/bobkerner/RiderProjects/virtual_constructor/VirtualConstrutor/obj/Debug/net8.0/VirtualConstrutor.csproj.CoreCompileInputs.cache
+/home/bobkerner/RiderProjects/virtual_constructor/VirtualConstrutor/obj/Debug/net8.0/VirtualConstrutor.sourcelink.json
+/home/bobkerner/RiderProjects/virtual_constructor/VirtualConstrutor/bin/Debug/net8.0/VirtualConstrutor.deps.json
+/home/bobkerner/RiderProjects/virtual_constructor/VirtualConstrutor/bin/Debug/net8.0/VirtualConstrutor.dll
+/home/bobkerner/RiderProjects/virtual_constructor/VirtualConstrutor/bin/Debug/net8.0/VirtualConstrutor.pdb
+/home/bobkerner/RiderProjects/virtual_constructor/VirtualConstrutor/obj/Debug/net8.0/VirtualConstrutor.dll
+/home/bobkerner/RiderProjects/virtual_constructor/VirtualConstrutor/obj/Debug/net8.0/refint/VirtualConstrutor.dll
+/home/bobkerner/RiderProjects/virtual_constructor/VirtualConstrutor/obj/Debug/net8.0/VirtualConstrutor.pdb
+/home/bobkerner/RiderProjects/virtual_constructor/VirtualConstrutor/obj/Debug/net8.0/ref/VirtualConstrutor.dll
